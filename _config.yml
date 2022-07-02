@@ -12,14 +12,14 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "N. Obrero"
+title                    : "Nicole Obrero"
 title_separator          : "|"
 subtitle                 : " "
-name                     : "Nicole Obrero."
+name                     : "Nicole Obrero"
 description              : " "
 port                     : 4000
 host                     : "0.0.0.0"
@@ -106,9 +106,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Hi! I'm Nicole"
+  name             : "   Hi! I'm Nicole 👋"
   avatar           : "/assets/images/bio-photo.jpg"
-  bio              : "Analyzing and visualizing data to make better and informed decisions"
+  bio              : "Harnessing the power of data to make the world a slightly better place."
   location         : "Singapore"
   email            : "jeelyobrero@gmail.com"
   links:
@@ -140,24 +140,30 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+  - label: "GitHub"
+    icon: "fab fa-fw fa-github"
+    url: "https://github.com/nicoleobrero"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/jnobrero/"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   # url:
+    # - label: "Facebook"
+    #   icon: "fab fa-fw fa-facebook-square"
+    #   # url:
+    # - label: "GitHub"
+    #   icon: "fab fa-fw fa-github"
+    #   # url:
+    # - label: "GitLab"
+    #   icon: "fab fa-fw fa-gitlab"
+    #   # url:
+    # - label: "Bitbucket"
+    #   icon: "fab fa-fw fa-bitbucket"
+    #   # url:
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
+    #   # url:
 
 
 # Reading Files
@@ -298,3 +304,12 @@ defaults:
       comments: # true
       share: true
       related: true
+  # portfolio
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      author_profile: false
+      excerpt: ""
+      sidebar:
+        nav: "portfolio"
