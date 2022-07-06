@@ -1,7 +1,4 @@
 ---
-
-
-
 layout: home
 classes: wide
 # header:
@@ -40,4 +37,3 @@ feature_row:
 <div style="margin-bottom:1cm" align="center"><font size="55">Highlighted Projects</font></div>
 
 {% include feature_row %}
-

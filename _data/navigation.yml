@@ -1,21 +1,11 @@
 # main links
 main:
-  - title: "HOME"
-    url: "/portfolio/"
+
   - title: "ABOUT"
     url: /about/
   - title: "PROJECTS"
     url: /projects/
-  - title: "RESUME"
-    url: /assets/docs/resume.pdf
-
-  # - title: "PROJECTS"
-  #   url: /projects/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "DATA VIZ"
+    url: /viz/
+  # - title: "RESUME"
+  #   url: /assets/docs/resume.pdf
