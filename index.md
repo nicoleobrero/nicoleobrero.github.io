@@ -21,14 +21,14 @@ feature_row:
     alt: " "
     title: "Sole Searching"
     excerpt: "Identifying the shoe brand based on the shoeprint using CNN"
-    url: "/projects/sole/"
+    url: "/projects/sole"
     btn_label: "Read More"
     btn_class: "btn--primary"	
   - image_path: /assets/images/network.png
     alt: " "
     title: "Philippines on PISA 2018"
     excerpt: "Analysis on factors driving Filipino students' proficiency in PISA 2018"
-    url: "/projects/network/"
+    url: "/projects/network"
     btn_label: "Read More"
     btn_class: "btn--primary"
   - image_path: /assets/images/customs.png
