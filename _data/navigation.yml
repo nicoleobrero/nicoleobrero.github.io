@@ -4,7 +4,7 @@ main:
   - title: "ABOUT"
     url: /about/
   - title: "PROJECTS"
-    url: /projects/
+    url: /
   - title: "DATA VIZ"
     url: /viz/
   # - title: "RESUME"
