@@ -9,11 +9,10 @@ header:
   caption: "Photo credit: MStudioImages from Getty Images on Canva"
 ---
 
-Hi, I'm Nicole and I work as a data analyst/scientist. I hold a Bachelor’s in Industrial Engineering (University of the Philippines) and Master’s degree in Data Science (Asian Institute of Management).
+Greetings! I'm Nicole, currently engaged as a data analyst/scientist. I earned my Bachelor’s in Industrial Engineering from the University of the Philippines and pursued a Master’s degree in Data Science at the Asian Institute of Management.
 
-I have 9+ years of local and international experience in analytics, data engineering and software development. Prior to starting my data science journey, I spent 6 years in the insurance industry working for top insurance companies as a software developer/business analyst/reporting analyst.
+With over a decade of diverse experience in analytics, data engineering, and software development both locally and internationally, I bring a wealth of knowledge to my role. Prior to venturing into data science, I dedicated 6 years to the insurance industry, where I served as a software developer, business analyst, and reporting analyst for leading insurance companies.
 
+Outside of my professional pursuits, I devote time to meditation and yoga, fostering a balanced lifestyle. I'm also passionate about travel, engaging in arts and crafts, and indulging in Korean dramas. 
 
-On my free time, I practice meditation and yoga. I also enjoying travelling, doing arts and crafts, and watching korean dramas. 
-
-Let's connect on LinkedIn or send me an e-mail. Feel free to ask me anything! 
+Let's connect on LinkedIn or drop me an e-mail. Feel free to ask me anything! 
